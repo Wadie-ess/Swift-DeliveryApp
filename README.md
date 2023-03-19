@@ -6,7 +6,7 @@ a delivery mobile application UI Concept built using Swift and SwiftUI.It allows
 
 
 
-![Logo](https://res.cloudinary.com/ddlvxyrdr/image/upload/v1679243577/deliveryGIF_mnlob9.gif)
+![Logo](https://github.com/Wadie-ess/Swift-DeliveryApp/blob/master/deliveryGIF_mnlob9.gif)
 
 
 ## Requirements
